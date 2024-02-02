@@ -26,8 +26,7 @@ public class Ping {
     }
 
     public static void main(String[] args) {
-        String ipAdress = getIPAdress();
-        IPAdress(ipAdress);
+        IPAdress(getIPAdress());
 
     }
 }
