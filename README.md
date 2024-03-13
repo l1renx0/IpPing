@@ -1,4 +1,4 @@
 # IpPing
 ## Description
-+ Ping each IP and see if it is reachable
++ Ping the IP you want and see if it is reachable
   
